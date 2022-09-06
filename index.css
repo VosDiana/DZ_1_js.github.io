@@ -1,0 +1,15 @@
+h2 {
+    text-transform: unset;
+    color: blue;
+    text-align: left;
+}
+.task {
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+}
+li {
+    padding-left: 35px;
+    position: relative;
+}
